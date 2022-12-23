@@ -1,0 +1,621 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\temp\\jthem\\template store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\template store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\template store.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\Flaticond41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticond41d.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\themify9f24.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\themify9f24.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\themify9f24.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.ttf"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\themify9f24.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify9f24.woff"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\fonts\\themifyd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\themifyd41d.eot"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\about_us_video.png",
+      "PackagePath": "staticwebassets\\img\\about_us_video.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\arrivel\\arrivel_1.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\arrivel\\arrivel_2.png",
+      "PackagePath": "staticwebassets\\img\\arrivel\\arrivel_2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\card-man.png",
+      "PackagePath": "staticwebassets\\img\\categori\\card-man.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\card-shape.png",
+      "PackagePath": "staticwebassets\\img\\categori\\card-shape.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\card.png",
+      "PackagePath": "staticwebassets\\img\\categori\\card.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\cat1.jpg",
+      "PackagePath": "staticwebassets\\img\\categori\\cat1.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\cat2.jpg",
+      "PackagePath": "staticwebassets\\img\\categori\\cat2.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\cat3.jpg",
+      "PackagePath": "staticwebassets\\img\\categori\\cat3.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\product1.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\product2.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\product3.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product3.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\product4.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product4.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\product5.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product5.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\categori\\product6.png",
+      "PackagePath": "staticwebassets\\img\\categori\\product6.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\client.png",
+      "PackagePath": "staticwebassets\\img\\client.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\client_1.png",
+      "PackagePath": "staticwebassets\\img\\client_1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\client_2.png",
+      "PackagePath": "staticwebassets\\img\\client_2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\collection1.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\collection2.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\collection3.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection3.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\collection4.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection4.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\collection5.png",
+      "PackagePath": "staticwebassets\\img\\collection\\collection5.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\latest-man.png",
+      "PackagePath": "staticwebassets\\img\\collection\\latest-man.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\collection\\latest-offer.png",
+      "PackagePath": "staticwebassets\\img\\collection\\latest-offer.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\gallery\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery1.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\gallery\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery2.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\gallery\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery3.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\gallery\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery4.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\gallery\\gallery5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery5.jpg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\hero\\hero_man.png",
+      "PackagePath": "staticwebassets\\img\\hero\\hero_man.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\icon\\feature_icon_1.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_1.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\icon\\feature_icon_2.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_2.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\icon\\feature_icon_3.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_3.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\icon\\feature_icon_4.svg",
+      "PackagePath": "staticwebassets\\img\\icon\\feature_icon_4.svg"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\icon\\header_icon.png",
+      "PackagePath": "staticwebassets\\img\\icon\\header_icon.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\logo\\logo2_footer.png",
+      "PackagePath": "staticwebassets\\img\\logo\\logo2_footer.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\img\\post\\next.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\img\\post\\preview.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\img\\product\\single_product.png",
+      "PackagePath": "staticwebassets\\img\\product\\single_product.png"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\animated.headline.js",
+      "PackagePath": "staticwebassets\\js\\animated.headline.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\gijgo.min.html",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.html"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\js\\jquery.form.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\swiper.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\temp\\jthem\\template store\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.template store.props",
+      "PackagePath": "build\\template store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.template store.props",
+      "PackagePath": "buildMultiTargeting\\template store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.template store.props",
+      "PackagePath": "buildTransitive\\template store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.template store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

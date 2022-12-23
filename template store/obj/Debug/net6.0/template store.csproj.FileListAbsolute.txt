@@ -24,3 +24,34 @@ C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\te
 C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\ref\template store.dll
 C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.pdb
 C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.genruntimeconfig.cache
+D:\temp\jthem\template store\bin\Debug\net6.0\appsettings.Development.json
+D:\temp\jthem\template store\bin\Debug\net6.0\appsettings.json
+D:\temp\jthem\template store\bin\Debug\net6.0\template store.staticwebassets.runtime.json
+D:\temp\jthem\template store\bin\Debug\net6.0\template store.exe
+D:\temp\jthem\template store\bin\Debug\net6.0\template store.deps.json
+D:\temp\jthem\template store\bin\Debug\net6.0\template store.runtimeconfig.json
+D:\temp\jthem\template store\bin\Debug\net6.0\template store.dll
+D:\temp\jthem\template store\bin\Debug\net6.0\template store.pdb
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.csproj.AssemblyReference.cache
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.AssemblyInfoInputs.cache
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.AssemblyInfo.cs
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.csproj.CoreCompileInputs.cache
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.MvcApplicationPartsAssemblyInfo.cache
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.RazorAssemblyInfo.cache
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.RazorAssemblyInfo.cs
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets\msbuild.template store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets\msbuild.build.template store.props
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.template store.props
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.template store.props
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets.pack.json
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets.build.json
+D:\temp\jthem\template store\obj\Debug\net6.0\staticwebassets.development.json
+D:\temp\jthem\template store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\temp\jthem\template store\obj\Debug\net6.0\scopedcss\bundle\template store.styles.css
+D:\temp\jthem\template store\obj\Debug\net6.0\scopedcss\projectbundle\template store.bundle.scp.css
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.dll
+D:\temp\jthem\template store\obj\Debug\net6.0\refint\template store.dll
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.pdb
+D:\temp\jthem\template store\obj\Debug\net6.0\template store.genruntimeconfig.cache
+D:\temp\jthem\template store\obj\Debug\net6.0\ref\template store.dll
