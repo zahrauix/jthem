@@ -1,0 +1,26 @@
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\appsettings.json
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\template store.staticwebassets.runtime.json
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\template store.exe
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\template store.deps.json
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\template store.runtimeconfig.json
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\template store.dll
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\ref\template store.dll
+C:\Users\mohammad\source\repos\template store\template store\bin\Debug\net6.0\template store.pdb
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.csproj.AssemblyReference.cache
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.AssemblyInfoInputs.cache
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.AssemblyInfo.cs
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.RazorAssemblyInfo.cache
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.RazorAssemblyInfo.cs
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\scopedcss\bundle\template store.styles.css
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\scopedcss\projectbundle\template store.bundle.scp.css
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.dll
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\ref\template store.dll
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.pdb
+C:\Users\mohammad\source\repos\template store\template store\obj\Debug\net6.0\template store.genruntimeconfig.cache

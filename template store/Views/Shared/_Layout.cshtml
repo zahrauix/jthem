@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+   <partial name="_Head"/>
+    
+</head>
+<body>
+@*preLoader*@
+<div id="preloader-active">
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader-inner position-relative">
+            <div class="preloader-circle"></div>
+            <div class="preloader-img pere-text">
+                <img src="assets/img/logo/logo.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+<header> 
+    <partial name="_Header"/>
+</header>
+
+<main role="main" class="pb-3">
+    @RenderBody()
+</main>
+
+
+<footer >
+  <partial name="_Footer"/>
+</footer>
+<partial name="_Scripts"/>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
