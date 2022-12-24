@@ -11,8 +11,8 @@ using template_store.Context;
 namespace templatestore.Migrations
 {
     [DbContext(typeof(TempContext))]
-    [Migration("20221223203927_first")]
-    partial class first
+    [Migration("20221224092758_connection")]
+    partial class connection
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
