@@ -6,7 +6,14 @@ namespace template_store.Models
     {
         [Key]
         public int TemplateId { get; set; }
+        [Required]
         public string? TemplateName { get; set; }
-        public string? TemlateAddress { get; set; }
+        [Required]
+        public string? TemplateAddress { get; set; }
+
+        public decimal TemplatePrice { get; set; }
+
+
+
     }
 }

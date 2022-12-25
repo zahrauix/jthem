@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+  <partial name="_AdminHead"/>
+    
+</head>
+<body>
+<partial name="_AdminHeader"/>
+<div class="container-fluid page-body-wrapper">
+    <partial name="_SideBars"/>
+
+
+    @RenderBody()
+</div>
+
+
+
+
+<partial name="_AdminScripts"/>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

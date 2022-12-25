@@ -29,11 +29,16 @@ namespace templatestore.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TemplateId"));
 
-                    b.Property<string>("TemlateAddress")
+                    b.Property<string>("TemplateAddress")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("TemplateName")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<decimal>("TemplatePrice")
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("TemplateId");
 
